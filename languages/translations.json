@@ -1,0 +1,134 @@
+{
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "news": "News",
+      "partners": "Partners",
+      "contact": "Contact",
+      "language": "Language",
+      "english": "English",
+      "amharic": "አማርኛ (Amharic)"
+    },
+    "hero": {
+      "title": "SUCCESS MICROFINANCE INSTITUTION S.C.",
+      "tagline": "Becoming best, inclusive, sustainable economic and social vehicle in poverty alleviation efforts in Ethiopia and East Africa by 2040.",
+      "cta": "Get Started"
+    },
+    "about": {
+      "title": "About Us",
+      "vision_title": "Vision",
+      "vision_text": "Becoming best, inclusive, sustainable economic and social vehicle in poverty alleviation efforts in Ethiopia and East Africa by 2040.",
+      "mission_title": "Mission",
+      "mission_text": "Providing microfinance services tailored to client needs while ensuring long-term institutional sustainability.",
+      "values_title": "Core Values",
+      "values_text": "Responsibility, Staff Commitment, Client Understanding, Learning, Tech-driven Growth, Entrepreneurship, Sustainability."
+    },
+    "services": {
+      "title": "Our Services",
+      "savings_category": "Savings",
+      "loans_category": "Loans",
+      "requirements": "Requirements:"
+    },
+    "news": {
+      "title": "Latest News",
+      "read_more": "Read More",
+      "by": "By:"
+    },
+    "partners": {
+      "title": "Our Partners"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "get_in_touch": "Get In Touch",
+      "contact_intro": "We're here to answer any questions you may have about our services.",
+      "email_title": "Email",
+      "phone_title": "Phone",
+      "address_title": "Address",
+      "form_name": "Your Name",
+      "form_email": "Your Email",
+      "form_subject": "Subject",
+      "form_message": "Your Message",
+      "form_submit": "Send Message",
+      "form_success": "Thank you for your message!",
+      "form_success_text": "We have received your inquiry and will respond as soon as possible."
+    },
+    "footer": {
+      "quick_links": "Quick Links",
+      "our_services": "Our Services",
+      "legal": "Legal",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service",
+      "sitemap": "Sitemap",
+      "copyright": "Copyright",
+      "all_rights_reserved": "All Rights Reserved"
+    }
+  },
+  "am": {
+    "navigation": {
+      "home": "መነሻ",
+      "about": "ስለ እኛ",
+      "services": "አገልግሎቶች",
+      "news": "ዜና",
+      "partners": "አጋሮች",
+      "contact": "ያግኙን",
+      "language": "ቋንቋ",
+      "english": "English",
+      "amharic": "አማርኛ"
+    },
+    "hero": {
+      "title": "የስኬት ማይክሮፋይናንስ ተቋም",
+      "tagline": "በ2040 በኢትዮጵያና በምስራቅ አፍሪካ በድህነት ቅነሳ ጥረቶች ውስጥ ምርጥ፣ አካታች፣ ዘላቂ ኢኮኖሚያዊና ማህበራዊ ተሽከርካሪ መሆን።",
+      "cta": "ይጀምሩ"
+    },
+    "about": {
+      "title": "ስለ እኛ",
+      "vision_title": "ራዕይ",
+      "vision_text": "በ2040 በኢትዮጵያና በምስራቅ አፍሪካ በድህነት ቅነሳ ጥረቶች ውስጥ ምርጥ፣ አካታች፣ ዘላቂ ኢኮኖሚያዊና ማህበራዊ ተሽከርካሪ መሆን።",
+      "mission_title": "ተልዕኮ",
+      "mission_text": "የረጅም ጊዜ ተቋማዊ ዘላቂነትን በማረጋገጥ ለደንበኞች ፍላጎት የተበጀ የማይክሮፋይናንስ አገልግሎቶችን መስጠት።",
+      "values_title": "መሰረታዊ እሴቶች",
+      "values_text": "ኃላፊነት፣ የሰራተኞች ቁርጠኝነት፣ የደንበኞች ግንዛቤ፣ መማር፣ በቴክኖሎጂ የሚመራ እድገት፣ የንግድ ስራ፣ ዘላቂነት።"
+    },
+    "services": {
+      "title": "አገልግሎቶቻችን",
+      "savings_category": "ቁጠባዎች",
+      "loans_category": "ብድሮች",
+      "requirements": "መስፈርቶች:"
+    },
+    "news": {
+      "title": "የቅርብ ጊዜ ዜናዎች",
+      "read_more": "ተጨማሪ ያንብቡ",
+      "by": "በ:"
+    },
+    "partners": {
+      "title": "አጋሮቻችን"
+    },
+    "contact": {
+      "title": "ያግኙን",
+      "get_in_touch": "ያነጋግሩን",
+      "contact_intro": "ስለ አገልግሎቶቻችን ሊኖርዎት ስለሚችል ማንኛውም ጥያቄ ለመመለስ እዚህ አለን።",
+      "email_title": "ኢሜይል",
+      "phone_title": "ስልክ",
+      "address_title": "አድራሻ",
+      "form_name": "ስምዎ",
+      "form_email": "ኢሜይልዎ",
+      "form_subject": "ርዕሰ ጉዳይ",
+      "form_message": "መልዕክትዎ",
+      "form_submit": "መልዕክት ይላኩ",
+      "form_success": "ለመልዕክትዎ እናመሰግናለን!",
+      "form_success_text": "ጥያቄዎን ተቀብለናል እና በተቻለ ፍጥነት ምላሽ እንሰጣለን።"
+    },
+    "footer": {
+      "quick_links": "ፈጣን ማገናኛዎች",
+      "our_services": "አገልግሎቶቻችን",
+      "legal": "ሕጋዊ",
+      "privacy_policy": "የግላዊነት ፖሊሲ",
+      "terms_of_service": "የአገልግሎት ውሎች",
+      "sitemap": "የጣቢያ ካርታ",
+      "copyright": "የቅጂ መብት",
+      "all_rights_reserved": "መብቱ በህግ የተጠበቀ ነው"
+    }
+  }
+}

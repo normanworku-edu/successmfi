@@ -1,0 +1,174 @@
+Goal:
+
+Develop a fully responsive, modern, single-page website for Success Microfinance Institution S.C., including a dynamic, password-protected admin panel and multilingual support (English and Amharic). The design should reflect professionalism, trust, and community empowerment, aligning with the institution’s mission and values.
+
+🎨 Design & UI Expectations
+Use Bootstrap 5 for a clean, responsive layout.
+
+Maintain a consistent, professional design aesthetic with clear visual hierarchy, accessible color contrasts, and elegant typography.
+
+Mobile-first, responsive behavior across all devices (desktop, tablet, smartphone).
+
+Smooth scroll navigation and interactive elements using JavaScript.
+
+🧱 Website Sections & Features
+1. Header
+Left-aligned institution logo.
+
+Right-aligned navigation menu with anchor links: Home, About, Services, News, Partners, Contact.
+
+Responsive navbar with hamburger menu on small screens.
+
+Option to switch between English and Amharic (language dropdown).
+
+2. Hero Section
+Large title: SUCCESS MICROFINANCE INSTITUTION S.C.
+
+Tagline:
+
+"Becoming best, inclusive, sustainable economic and social vehicle in poverty alleviation efforts in Ethiopia and East Africa by 2040."
+
+High-quality background image symbolizing community development and financial inclusion.
+
+Prominent CTA button: “Get Started” (scrolls to About or Services).
+
+3. About Section
+Vision, Mission, and Core Values of SMFI:
+
+Vision: 2040 goal as a vehicle for poverty alleviation in Ethiopia and East Africa.
+
+Mission: Microfinance services tailored to client needs and long-term institutional sustainability.
+
+Core Values: Responsibility, Staff Commitment, Client Understanding, Learning, Tech-driven Growth, Entrepreneurship, Sustainability.
+
+Use clear layout: icons, headings, and responsive cards or info blocks.
+
+4. Services / Products
+Financial products displayed in grid/card layout, each with:
+
+Product Name (English + Amharic)
+
+Short Description
+
+Requirements (clearly categorized)
+
+Grouped under:
+
+Savings (e.g., Regular Saving, Group Saving)
+
+Loans (e.g., Home Construction Loan, Business Loan, Salaried Consumption Loan)
+
+5. News / Blog
+Latest articles or updates in card layout.
+
+Each news item includes:
+
+Title, Summary, Date, Author, "Read More" link
+
+Dynamically managed through admin panel.
+
+6. Partners
+Logos of institutional partners (Awash Bank, CBE, GLOBAL Bank, Bank of Abyssinia).
+
+Responsive grid or carousel layout.
+
+Optional links or descriptions for each.
+
+7. Contact Section
+Contact Info:
+
+Email: sumfihrsc@gmail.com
+
+Phone: 011-668-69-11
+
+Physical Address
+
+Interactive Contact Form with validation.
+
+Embedded Google Map with pin location.
+
+8. Footer
+Copyright text
+
+Quick links: Privacy Policy, Terms of Service, Sitemap
+
+Social media icons (e.g., Facebook, LinkedIn)
+
+Clean, minimalist design consistent with header styling.
+
+💡 Optional Enhancements (Highly Recommended)
+Client Testimonials Carousel
+
+Financial Calculators (e.g., loan estimator)
+
+FAQ Section (accordion-style)
+
+Job Board / Careers Section
+
+Photo/Video Gallery
+
+Blog (for financial education and community impact stories)
+
+Live Chat Integration
+
+Social Media Share Buttons
+
+Accessibility Features (ARIA labels, keyboard navigation)
+
+Security (sanitized inputs, CSRF protection, HTTPS-ready structure)
+
+🌐 Multilingual Support
+Language toggle: Amharic (am) and English (en)
+
+All content must be translatable (titles, descriptions, menu, etc.).
+
+Use JSON, PHP arrays, or DB-based content loading for scalability.
+
+Persist user language preference across sessions.
+
+🔐 Admin Panel Features (PHP + MySQL)
+Authentication (Login, logout, session management)
+
+News Manager: Add/Edit/Delete news items with WYSIWYG editor
+
+Product Manager: Manage services/loans/savings (names, descriptions, requirements, translations)
+
+Content Editor: Update mission, vision, about, FAQs, etc.
+
+Language Content Manager: Easily update translated fields
+
+User Roles (optional): Different permission levels (admin, editor)
+
+Media Library: Upload images, videos, and logos
+
+Settings Panel: Site title, contact info, social media links
+
+⚙️ Technical Requirements
+Front-End: HTML5, CSS3 (Bootstrap 5), JavaScript (ES6+)
+
+Back-End: PHP (object-oriented preferred)
+
+Database: MySQL (schema required)
+
+Deployment: Include setup instructions
+
+Code Quality:
+
+Semantic HTML
+
+Comments and documentation
+
+Modular CSS/JS
+
+Secure PHP (input validation, prepared statements)
+
+📦 Deliverables
+All frontend source files (HTML, CSS, JS, images)
+
+Admin panel PHP files and MySQL DB schema
+
+Language files or database with multilingual content
+
+Setup guide (README with installation steps, environment requirements)
+
+Screenshot previews (optional but appreciated)

@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "MySQL_Databases",
+            "driver": "MySQL",
+            "server": "localhost",
+            "port": 3306,
+            "username": "root",
+            "password": "root",
+            "database": "german_citizenship_test_db"
+        }
+    ]
+}
