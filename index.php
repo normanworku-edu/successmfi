@@ -85,7 +85,7 @@ $currentLang = getCurrentLanguage();
     </section>
 
     <!-- About Section -->
-    <section id="about" class="section-padding">
+    <section id="about" class="section-padding mt-3">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center mb-5">
